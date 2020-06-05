@@ -1,0 +1,99 @@
+body {
+/*	width: 95%;*/
+	margin: 0 auto;
+	font-family: montserrat light, sans-serif;
+	font-weight: lighter;
+	padding: 5px;}
+
+#home {
+	letter-spacing: 8px;
+	float: left;
+	color: black;
+	text-align: left;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 48px;	
+}
+
+.navbar a {
+	color: #5E6365;
+	text-align: right;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.navbar a:hover {
+	color: #9A9C9D;
+}
+
+.logo:hover {
+	opacity: 0.3;
+}
+
+ul {
+	float: right;
+}
+
+li {
+	float: left;
+	list-style: none;
+}
+
+img.logo {
+	width: 20px;
+	height: 20px;
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+/*	padding-right: 10px;*/
+}
+
+p {
+	margin: auto;
+	float: left;
+	text-align: left;
+	padding: 10px;
+	color: #5E6365;
+}
+
+img#headshot {
+	width: 500px;
+	height: 641.67px;
+	opacity: 0.7;	
+}
+
+img#coffee {
+	width: 300px;
+	height: 400px;
+	opacity: 0.7;
+	position: relative;
+	top: -300px;
+	right: -5px;
+}
+
+img#building1 {
+	width: 300px;
+	height: 400px;
+	opacity: 0.7;
+	position: relative;
+	top: -30px;
+	right: -10px;
+}
+
+img#building2 {
+	width: 280.8px;
+	height: 374.4px;
+	opacity: 0.7;
+	position: relative;
+	top: -300px;
+	right: -15px;
+}
+
+#about_info {
+	margin: auto;
+	float: left;
+	text-align: left;
+	padding: 10px;
+	color: #5E6365;
+}
